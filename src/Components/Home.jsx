@@ -10,7 +10,7 @@ const Home = () =>{
                             Hello, I'm Tom
                         </span>
                     </h1>
-                    <p className="text-white text-lg mb-6 lg:text-xl"> I am a software devloper based in the UK</p>
+                    <p className="text-white text-lg mb-6 lg:text-xl"> I am a software developer based in the UK</p>
                     <div>
                         <button className='px-6 py-3 rounded-full mr-4 bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-slate-200  '> Download CV </button>
                         <button className='px-6 py-3 rounded-full border-solid border-2 border-cyan-500 mr-4 bg-transparent text-white  '> Contact Me </button>

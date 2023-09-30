@@ -1,10 +1,10 @@
 
 import './App.css'
 import Home from './Components/Home.jsx'
-import NavBar from './Components/Nvabar'
+import NavBar from './Components/Navbar'
 import AboutMe from './Components/AboutMe'
 import Projects from './Components/Projects'
-
+import {Route, Routes} from 'react-router-dom'
 function App() {
  
 
@@ -23,14 +23,12 @@ function App() {
         
 
       </div>
+
       
     
          
 
     </main>
-      
-      
-     
     </>
   )
 }
