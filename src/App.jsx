@@ -4,6 +4,7 @@ import Home from './Components/Home.jsx'
 import NavBar from './Components/Navbar'
 import AboutMe from './Components/AboutMe'
 import Projects from './Components/Projects'
+import Contact from './Components/Contact'
 import {Route, Routes} from 'react-router-dom'
 function App() {
  
@@ -19,6 +20,7 @@ function App() {
         <Home />
         <AboutMe />
         <Projects />
+        <Contact />
        
         
 

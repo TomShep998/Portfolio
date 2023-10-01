@@ -1,6 +1,6 @@
 import React from 'react'; 
 import NavLink from './NavLink'
-import {Outlet} from 'react-router-dom'
+import {Outlet, Route, Routes} from 'react-router-dom'
 const Navbar = () =>{
   const NavLinkData=  [{
         id:0,
@@ -25,7 +25,7 @@ const Navbar = () =>{
         <>
         <nav className='w-100 h-[50px][#212626] fixed top-0 right-0 left-0'>
             <ul className='flex flex-row list-none text-white'>
-                
+               
             </ul>
         </nav>
         <Outlet />
