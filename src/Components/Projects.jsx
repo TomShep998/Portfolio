@@ -11,7 +11,7 @@ const Projects = () => {
             <h2 className="text-white text-3xl font-bold mb-10"> Projects </h2>
             <ul className="flex flex-row justify-between">
                 <li>
-                    <ProjectCard title={"Project 1"} description={"Hello this is project 1"} />
+                    <ProjectCard title={"Project 1"} description={"Hello this is project 1"} imgurl={'src/assets/Images/about-me.png'} />
                 </li>
             </ul>
 

@@ -13,7 +13,7 @@ function App() {
 
 
     <>
-    <main className=' flex  min-h-screen flex-col bg-[#212626] '>
+    <main className=' flex  min-h-screen flex-col bg-[#18181b]'>
       <NavBar />
       <div className='container mt-24 mx-auto px-12 py-4'>
         
